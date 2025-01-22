@@ -124,8 +124,11 @@ When using the non-native (e.g. ARM, MIPS) platform, it was confirmed that the s
 ### This is a long-term supported version
 This repository is a long-term supported version for Windows and multi-platform support. For information on the latest QEMU version, see the [tianon/docker-qemu](https://github.com/tianon/docker-qemu) repository.
 
-## Report abuse
-- abuse@catswords.net
+## Join the community
 - ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
-- [Join Catswords OSS on Microsoft Teams](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
-- [Join Catswords OSS #docker-qemu on Discord](https://discord.gg/zPfx2VrcRs)
+- [Join Catswords OSS on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+- [Join Catswords OSS #docker-qemu on Discord (discord.gg)](https://discord.gg/zPfx2VrcRs)
+
+## Report abuse
+- [GitHub Security Advisories (gnh1201/docker-qemu)](https://github.com/gnh1201/docker-qemu/security)
+- abuse@catswords.net
