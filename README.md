@@ -1,4 +1,5 @@
 # gnh1201/docker-qemu
+[![Discord chat](https://img.shields.io/discord/359930650330923008?logo=discord)](https://discord.gg/zPfx2VrcRs)
 
 ```console
 $ touch /home/jsmith/hda.qcow2
